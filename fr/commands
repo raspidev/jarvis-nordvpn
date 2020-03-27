@@ -1,0 +1,3 @@
+*VPN*CONNECT*==say "Je me connecte..." && jv_pg_vpn_connect
+*VPN*DECO*==say "Je me déconnecte..." && jv_pg_vpn_disconnect
+*VPN*STAT*==say "Je regarde..." && jv_pg_vpn_status
