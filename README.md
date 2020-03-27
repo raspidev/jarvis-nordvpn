@@ -13,6 +13,10 @@ For multi-language plugin:
 Mon premier plugin pour Jarvis, il faut avoir NordVpn d'installé.
 Ce Plugin permet de se connecter, déconnecter et de savoir le statut de la connection.
 
+English
+My first plugin for Jarvis, you need to have NordVpn installed.
+This Plugin allows you to connect, disconnect and know the status of the connection.
+
 ## Usage
 ```
 You: vpn connect
